@@ -29,6 +29,6 @@ Ask me about mechanical keyboards, QMK, and Meaning!
 </div>
 <br>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annanuran&hide=javascript,html&size_weight=0.85&count_weight=0.35)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annanuran&hide=javascript,html,makefile&size_weight=0.85&count_weight=0.35)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
